@@ -1,2 +1,2 @@
-# Uczenie-g-bokie-do-rozpoznawania-obiekt-w-
+#Uczenie głębokie do rozpoznawania obiektów
 Sprawozdania z laboratoriów
